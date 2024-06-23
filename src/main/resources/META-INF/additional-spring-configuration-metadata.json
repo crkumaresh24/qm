@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "platform.token-validate.url",
+    "type": "java.lang.String",
+    "description": "A description for 'platform.token-validate.url'"
+  },
+  {
+    "name": "platform.auth-manager.url",
+    "type": "java.lang.String",
+    "description": "A description for 'platform.auth-manager.url'"
+  }
+]}
